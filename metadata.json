@@ -1,0 +1,5 @@
+{
+  "name": "voice styler",
+  "description": "Convert text into expressive speech with distinct character styles and tones using Gemini's advanced TTS capabilities.",
+  "requestFramePermissions": []
+}
